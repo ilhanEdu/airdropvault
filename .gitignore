@@ -1,0 +1,14 @@
+# dependencies / build output
+node_modules/
+dist/
+*.tsbuildinfo
+
+# YOUR VAULT — personal raids, screenshots, and API keys live here.
+# Never commit this folder.
+vault-data/
+
+# OS / editor noise
+.DS_Store
+.vscode/
+.idea/
+*.log
